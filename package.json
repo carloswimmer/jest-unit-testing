@@ -4,7 +4,8 @@
   "description": "A basic study of unit testing in JavaScript using Jest.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "testwatch": "jest --watchAll"
   },
   "repository": {
     "type": "git",
