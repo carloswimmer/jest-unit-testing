@@ -1,0 +1,26 @@
+{
+  "name": "jest-unit-testing",
+  "version": "1.0.0",
+  "description": "A basic study of unit testing in JavaScript using Jest.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carloswimmer/jest-unit-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carloswimmer/jest-unit-testing/issues"
+  },
+  "homepage": "https://github.com/carloswimmer/jest-unit-testing#readme",
+  "devDependencies": {
+    "jest": "^24.0.0"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
